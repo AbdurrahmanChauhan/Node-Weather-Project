@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.heading{
+    background-color: #80808044;
+    /* text-align: center; */
+    padding: 50px;
+}
+.heading-text{
+    font-size: 60px;
+    font-weight: 400;
+}
+.heading-body{
+    padding: 10px;
+}
+.form-fields{
+    padding: 10px;
+}
